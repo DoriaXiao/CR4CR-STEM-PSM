@@ -70,9 +70,4 @@ To reproduce the analyses in the manuscript:
 - With the de-identified dataset: the pipeline runs marginal models with robust SEs.
 - With a dataset containing an anonymized student ID: the pipeline runs full mixed-effects models (random intercepts).
 
-## Contact
-For questions or data requests:
 
-Xingyao (Doria) Xiao, Ph.D.  
-Stanford University 
-Email: doriax@stanford.edu
